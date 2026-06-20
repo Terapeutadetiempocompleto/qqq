@@ -1,0 +1,17 @@
+player_name: MarioIntro
+language: en_US
+setlang: false
+last_location:
+  world: world
+  x: 221.73732060113647
+  y: 20.0
+  z: -2138.300000011921
+  pitch: 41.885952
+  yaw: 260.78964
+logout_location:
+  world: world
+  x: 381.4159907063852
+  y: 5.0
+  z: -2153.8744691000265
+  pitch: 7.6755824
+  yaw: -1.4408264
